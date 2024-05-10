@@ -25,6 +25,8 @@ Targeted and personalized marketing:
 The same intel that helps Starbucks suggest new products for to try also helps the company send personalized offers and discounts that go far beyond a special birthday discount. Additionally, a customized email goes out to any customer who hasn’t visited a Starbucks recently with enticing offers—built from that individual’s purchase history—to re-engage them.
 Virtual barista
 My Starbucks Barista through the Starbucks mobile app, allows you to place an order through voice command or messaging to a virtual barista using artificial intelligence algorithms behind the scenes. Since there are so many nuances to an individual order, it’s quite an accomplishment for an artificial intelligence engine to provide a seamless customer experience.
+
+
 Recommendations :
 One of Starbucks' major initiatives was Deep Brew, a project harnessing artificial intelligence (AI) to drive the brand's personalization engine, optimize store labor allocations, and drive inventory management in stores.
 
